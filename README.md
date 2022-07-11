@@ -10,4 +10,6 @@ Repo for links from the JNUC 2022 talk "On bootstrap tokens, secure tokens, and 
 - [Add support for the ;DisabledTags;SecureToken key when creating users by policy or UIE](https://ideas.jamf.com/ideas/JN-I-26202)
 
 ## Bootstrap tokens
- - [Jamf Pro 10.18.0 Release Notes](https://docs.jamf.com/10.18.0/jamf-pro/release-notes/What's_New.html)
+- [Jamf Pro 10.18.0 Release Notes](https://docs.jamf.com/10.18.0/jamf-pro/release-notes/What's_New.html)
+- [Enterprise management of legacy system extensions in macOS Big Sur](https://support.apple.com/HT211860)
+- [Startup Disk security policy control for a Mac with Apple silicon](https://support.apple.com/en-gb/guide/security/sec7d92dc49f/web)
