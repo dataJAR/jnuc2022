@@ -8,3 +8,6 @@ Repo for links from the JNUC 2022 talk "On bootstrap tokens, secure tokens, and 
 - [sysadminctl changes in 10.13 affecting Filevault](https://babodee.wordpress.com/2017/10/05/sysadminctl-changes-in-10-13/)
 - [FileVault Enablement with Jamf Connect](https://docs.jamf.com/jamf-connect/administrator-guide/FileVault_Enablement_with_Jamf_Connect.html)
 - [Add support for the ;DisabledTags;SecureToken key when creating users by policy or UIE](https://ideas.jamf.com/ideas/JN-I-26202)
+
+## Bootstrap tokens
+ -[Jamf Pro 10.18.0 Release Notes](https://docs.jamf.com/10.18.0/jamf-pro/release-notes/What's_New.html)
