@@ -11,6 +11,8 @@ Repo for links from the JNUC 2022 talk "On bootstrap tokens, secure tokens, and 
 
 ## Bootstrap tokens
 - [Jamf Pro 10.18.0 Release Notes](https://docs.jamf.com/10.18.0/jamf-pro/release-notes/What's_New.html)
+- [Manually Leveraging Apple's Bootstrap Token Functionality](https://docs.jamf.com/technical-articles/Manually_Leveraging_Apples_Bootstrap_Token_Functionality.html)
+- [Jamf Pro 10.31.0 Release Notes](https://docs.jamf.com/10.31.0/jamf-pro/release-notes/New_Features_and_Enhancements.html)
 - [Managing Legacy Kernel Extensions in macOS Using Jamf Pro](https://docs.jamf.com/technical-articles/Managing_Legacy_Kernel_Extensions_in_macOS_Using_Jamf_Pro.html)
 - [Enterprise management of legacy system extensions in macOS Big Sur](https://support.apple.com/HT211860)
 - [Startup Disk security policy control for a Mac with Apple silicon](https://support.apple.com/en-gb/guide/security/sec7d92dc49f/web)
