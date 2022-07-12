@@ -20,4 +20,4 @@ Repo for links from the JNUC 2022 talk "On bootstrap tokens, secure tokens, and 
 
 ## Volume ownership
 - [Apple Platform Deployment](https://support.apple.com/guide/deployment/dep24dbdcf9e/web)
-- [PreStage Enrollment: Users Are Not Volume Owners on Computers with macOS 11.5–12 when the Recovery Lock Password is Set During Enrollment (PI-010304)] (https://docs.jamf.com/technical-articles/PreStage_Enrollment_Users_Are_Not_Volume_Owners_on_Computers_with_macOS_11-512_when_the_Recovery_Lock_Password_is_Set_During_Enrollment_PI-010304.html)
+- [PreStage Enrollment: Users Are Not Volume Owners on Computers with macOS 11.5–12 when the Recovery Lock Password is Set During Enrollment (PI-010304)](https://docs.jamf.com/technical-articles/PreStage_Enrollment_Users_Are_Not_Volume_Owners_on_Computers_with_macOS_11-512_when_the_Recovery_Lock_Password_is_Set_During_Enrollment_PI-010304.html)
